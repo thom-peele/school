@@ -1,7 +1,7 @@
 package com.infosupport;
 
-import org.junit.Before;
-import org.junit.Test;
+
+import org.junit.*;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
