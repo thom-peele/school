@@ -1,3 +1,6 @@
-[submodule "test"]
-	path = test
-	url = https://github.com/thom-peele/test.git
+[submodule "dha"]
+	path = dha
+	url = git@github.com:HANICA-MAD/dha-Thom-Peele.git
+[submodule "dia"]
+	path = dia
+	url = git@github.com:HANICA-MAD/dia-Thom-Peele.git
