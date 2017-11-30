@@ -4,3 +4,9 @@
 [submodule "dia"]
 	path = dia
 	url = git@github.com:HANICA-MAD/dia-Thom-Peele.git
+[submodule "voor_ExternApp"]
+	path = voor_ExternApp
+	url = git@github.com:HANICA-MAD/dia-mubaarak-hassan.git
+[submodule "Project"]
+	path = Project
+	url = git@github.com:360Squared/Push-Thom.git
